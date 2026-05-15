@@ -9,8 +9,8 @@ A collection of certifications earned across networking, programming, data scien
 | Certificate | Completed | Cert ID |
 |---|---|---|
 | CCNA: Introduction to Networks | 02 May 2026 | c72432ca-b743-4679-8df7-dfa442e638b3 |
-| CCNA: Enterprise Networking, Security, and Automation | 11 May 2026 | 4595a6ab-7ccf-479a-99e6-2520f65758bb |
 | CCNA: Switching, Routing & Wireless Essentials | 08 May 2026 | cfb2de74-f82e-4c8b-8951-03886fb5fa28 |
+| CCNA: Enterprise Networking, Security, and Automation | 11 May 2026 | 4595a6ab-7ccf-479a-99e6-2520f65758bb |
 | Introduction to Cybersecurity | 01 Apr 2026 | 3841a418-0950-4143-bd1a-dbef078398ed |
 | Introduction to Data Science | 22 Apr 2026 | e2d1beab-2452-44b1-acbc-20a96321f6c3 |
 | Python Essentials 2 | 08 Nov 2025 | 9da444b7-a78a-442b-81f3-3dd1842579f7 |
